@@ -46,4 +46,4 @@ Inference from Model 3: The above results in graph and training data indicate th
 
 ## Contact
 
-Created by [@Madhanraj] - feel free to contact me!
+Created by [@MadhanrajG] - feel free to contact me!
